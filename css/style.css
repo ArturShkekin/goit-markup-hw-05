@@ -33,6 +33,7 @@ ul {
 img {
     display: block;
 }
+
 p {
     margin: 0;
 }
@@ -193,7 +194,6 @@ p {
     color: #FFFFFF;
     padding-bottom: 30px;
     margin: 0;
-
 }
 
 .button {
@@ -628,7 +628,6 @@ p {
     display: flex;
     flex-direction: row;
     padding-top: 21px;
-   
 }
 
 .footer-li {
@@ -696,7 +695,6 @@ p {
     margin-right: 12px;
     padding-right: 12px;
     padding-left: 12px;
-    
 }
 
 .footer-button {
